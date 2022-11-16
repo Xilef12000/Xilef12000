@@ -2,7 +2,7 @@
 
 [![Xilef12000 on Github](https://img.shields.io/badge/Github-Xilef12000-A4EC01?style=for-the-badge&logo=github&logoColor=171515)](https://github.com/Xilef12000)
 [![Xilef12000.com](https://img.shields.io/badge/Page-Xilef12000-D717F0?style=for-the-badge)](https://Xilef12000.com)
-[![Xilef12000.com](https://img.shields.io/github/followers/Xilef12000?style=for-the-badge)](https://github.com/Xilef12000)
+[![Followers on Github](https://img.shields.io/github/followers/Xilef12000?style=for-the-badge)](https://github.com/Xilef12000)
 
 | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS |
 |-|-|-|-|-|
