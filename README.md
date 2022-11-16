@@ -4,8 +4,8 @@
 [![Followers on Github](https://img.shields.io/github/followers/Xilef12000?style=for-the-badge&logo=github&logoColor=171515)](https://github.com/Xilef12000)
 [![Stars on Github](https://img.shields.io/github/stars/Xilef12000?style=for-the-badge&label=Profile%20Stars&logo=github&logoColor=171515)](https://github.com/Xilef12000)
 [![Github License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=github&logoColor=171515)](https://github.com/Xilef12000)  
-[![Xilef12000.com](https://img.shields.io/badge/Page-Xilef12000-D717F0?style=for-the-badge)](https://Xilef12000.com)
-[![Xilef12000.com Up](https://img.shields.io/website.svg?style=for-the-badge&label=Xilef12000.com&down_color=red&down_message=down&up_color=green&up_message=up&url=http://xilef12000.com)](https://Xilef12000.com)
+[![Xilef12000.com](https://img.shields.io/badge/Website-Xilef12000.com-D717F0?style=for-the-badge)](https://Xilef12000.com)
+[![Xilef12000.com Up](https://img.shields.io/website.svg?style=for-the-badge&label=Website&down_color=red&down_message=down&up_color=green&up_message=up&url=http://xilef12000.com)](https://Xilef12000.com)
 
 | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS |
 |-|-|-|-|-|
