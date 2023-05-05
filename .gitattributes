@@ -1,3 +1,5 @@
 *.md linguist-detectable
+README.md -linguist-documentation
 README.md linguist-detectable
+README.html -linguist-documentation
 README.html linguist-generated
