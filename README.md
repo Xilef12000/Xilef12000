@@ -17,7 +17,7 @@
 
 [![My GitHub Stats](https://github-readme-stats-x12.vercel.app/api?username=Xilef12000&show_icons=true&theme=tokyonight)](https://github.com/Xilef12000)  
 [![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Xilef12000&theme=tokyonight)](https://github.com/Xilef12000)  
-[![My GitHub Language Stats](https://github-readme-stats-x12.vercel.app/api/top-langs/?username=Xilef12000&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/Xilef12000)  
+[![My GitHub Language Stats](https://github-readme-stats-x12.vercel.app/api/top-langs/?username=Xilef12000&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/Xilef12000)  
 
 [![My GitHub Trophy Stats](https://github-profile-trophy.vercel.app/?username=Xilef12000&margin-w=8&theme=tokyonight)](https://github.com/Xilef12000)  
 <!--
