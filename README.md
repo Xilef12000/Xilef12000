@@ -5,7 +5,6 @@
 [![Stars on Github](https://img.shields.io/github/stars/Xilef12000?style=for-the-badge&label=Profile%20Stars&logo=github&logoColor=171515)](https://github.com/Xilef12000)
 
 
-### [www.xilef12000.com](https://www.xilef12000.com/)
 ### [x42.space](https://x42.space/)
 
 | REPOSITORY | DESCRIPTION | PLATFORM | LANGUAGE | STARS |
